@@ -1,0 +1,39 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) POINT LOOKOUT]>
+        <[string8][lname][(H) POINT LOOKOUT, Australia]>
+        <[string8][icao][YPLT]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][153.522326 -27.426559]>
+        <[float64][height][9.1]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][153.522454 -27.426590]>
+        <[float64][tower_height][11.0]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][153.522326 -27.426559]>
+                <[string8][type_name][building]>
+                <[float64][radius][9.0]>
+                <[float64][heading][0.00]>
+                <[float64][height][0]>
+                <[string8][name][H18]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][153.522322 -27.426558]>
+                <[float64][heading][0.00]>
+                <[string8][name][New Ramp Start 19]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

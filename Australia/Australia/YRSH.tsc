@@ -1,0 +1,47 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) Rosehill Heliport]>
+        <[string8][lname][(H) Rosehill Heliport, Australia]>
+        <[string8][icao][YRSH]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][151.048021 -33.829924]>
+        <[float64][height][3.7]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][151.047969 -33.830190]>
+        <[float64][tower_height][5.2]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][151.048021 -33.829924]>
+                <[string8][type_name][building]>
+                <[float64][radius][3.1]>
+                <[float64][heading][342.61]>
+                <[float64][height][0]>
+                <[string8][name][H1]>
+            >
+            <[tmsimulator_helipad][element][1]
+                <[tmvector2d][position][151.047157 -33.830166]>
+                <[string8][type_name][building]>
+                <[float64][radius][9.0]>
+                <[float64][heading][34.55]>
+                <[float64][height][0]>
+                <[string8][name][H2]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][151.048018 -33.829927]>
+                <[float64][heading][180.00]>
+                <[string8][name][Custom Startup Location]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

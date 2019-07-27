@@ -1,0 +1,44 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) Iurreta]>
+        <[string8][lname][(H) Iurreta, Spain]>
+        <[string8][icao][LEIU]>
+        <[string8][country][es]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-2.646338 43.181823]>
+        <[float64][height][116.1]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][-2.644560 43.181954]>
+        <[float64][tower_height][141.1]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][-2.646338 43.181823]>
+                <[string8][type_name][building]>
+                <[float64][radius][12.5]>
+                <[float64][heading][312.00]>
+                <[float64][height][0]>
+                <[string8][name][H1]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][-2.644981 43.181800]>
+                <[float64][heading][100.00]>
+                <[string8][name][Estacionamiento 2]>
+            >
+            <[tmsimulator_parking_position][element][1]
+                <[tmvector2d][position][-2.644993 43.181765]>
+                <[float64][heading][100.00]>
+                <[string8][name][Estacionamiento 2B]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

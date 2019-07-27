@@ -1,0 +1,32 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) Domat Ems]>
+        <[string8][lname][(H) Domat Ems, Switzerland]>
+        <[string8][icao][LSXD]>
+        <[string8][country][ch]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][9.465493 46.837686]>
+        <[float64][height][575.8]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][9.465493 46.837686]>
+                <[string8][type_name][building]>
+                <[float64][radius][12.5]>
+                <[float64][heading][350.00]>
+                <[float64][height][0]>
+                <[string8][name][H17]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

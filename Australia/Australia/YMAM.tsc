@@ -1,0 +1,39 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) MONA MONA]>
+        <[string8][lname][(H) MONA MONA, Australia]>
+        <[string8][icao][YMAM]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][145.510757 -16.733325]>
+        <[float64][height][409.3]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][145.510968 -16.733273]>
+        <[float64][tower_height][411.2]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][145.510757 -16.733325]>
+                <[string8][type_name][building]>
+                <[float64][radius][9.0]>
+                <[float64][heading][0.00]>
+                <[float64][height][0]>
+                <[string8][name][H13]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][145.510748 -16.733330]>
+                <[float64][heading][0.00]>
+                <[string8][name][New Ramp Start 15]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

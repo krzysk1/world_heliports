@@ -1,0 +1,32 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) Shell Pipeline Nairn]>
+        <[string8][lname][(H) Shell Pipeline Nairn, Albania]>
+        <[string8][icao][LA93]>
+        <[string8][country][al]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-89.614784 29.416885]>
+        <[float64][height][1.2]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][-89.614784 29.416885]>
+                <[string8][type_name][building]>
+                <[float64][radius][7.6]>
+                <[float64][heading][0.00]>
+                <[float64][height][0]>
+                <[string8][name][H1]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

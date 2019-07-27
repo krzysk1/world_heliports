@@ -1,0 +1,32 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) Hissom Memorial Center]>
+        <[string8][lname][(H) Hissom Memorial Center, Lebanon]>
+        <[string8][icao][OL01]>
+        <[string8][country][lb]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-96.144170 36.128975]>
+        <[float64][height][199.3]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][-96.144170 36.128975]>
+                <[string8][type_name][building]>
+                <[float64][radius][9.1]>
+                <[float64][heading][0.00]>
+                <[float64][height][0]>
+                <[string8][name][H1]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

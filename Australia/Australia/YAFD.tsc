@@ -1,0 +1,39 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) ALFRED HOSPITAL]>
+        <[string8][lname][(H) ALFRED HOSPITAL, Australia]>
+        <[string8][icao][YAFD]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][144.981322 -37.845227]>
+        <[float64][height][18.0]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][144.981107 -37.845367]>
+        <[float64][tower_height][19.8]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][144.981322 -37.845227]>
+                <[string8][type_name][building]>
+                <[float64][radius][20.0]>
+                <[float64][heading][7.80]>
+                <[float64][height][0]>
+                <[string8][name][H16]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][144.981319 -37.845233]>
+                <[float64][heading][0.00]>
+                <[string8][name][New Ramp Start 18]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

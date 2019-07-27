@@ -1,0 +1,72 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) Anosino-2]>
+        <[string8][lname][(H) Anosino-2, Russia]>
+        <[string8][icao][UU03]>
+        <[string8][country][ru]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][36.971331 55.821167]>
+        <[float64][height][167.9]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][36.971331 55.821167]>
+                <[string8][type_name][building]>
+                <[float64][radius][5.0]>
+                <[float64][heading][0.00]>
+                <[float64][height][0]>
+                <[string8][name][H1]>
+            >
+            <[tmsimulator_helipad][element][1]
+                <[tmvector2d][position][36.971659 55.821169]>
+                <[string8][type_name][building]>
+                <[float64][radius][5.0]>
+                <[float64][heading][0.00]>
+                <[float64][height][0]>
+                <[string8][name][H2]>
+            >
+            <[tmsimulator_helipad][element][2]
+                <[tmvector2d][position][36.971324 55.821366]>
+                <[string8][type_name][building]>
+                <[float64][radius][5.0]>
+                <[float64][heading][0.00]>
+                <[float64][height][0]>
+                <[string8][name][H3]>
+            >
+            <[tmsimulator_helipad][element][3]
+                <[tmvector2d][position][36.971660 55.821361]>
+                <[string8][type_name][building]>
+                <[float64][radius][5.0]>
+                <[float64][heading][0.00]>
+                <[float64][height][0]>
+                <[string8][name][H4]>
+            >
+            <[tmsimulator_helipad][element][4]
+                <[tmvector2d][position][36.971662 55.821566]>
+                <[string8][type_name][building]>
+                <[float64][radius][5.0]>
+                <[float64][heading][0.00]>
+                <[float64][height][0]>
+                <[string8][name][H5]>
+            >
+            <[tmsimulator_helipad][element][5]
+                <[tmvector2d][position][36.971315 55.821566]>
+                <[string8][type_name][building]>
+                <[float64][radius][5.0]>
+                <[float64][heading][0.00]>
+                <[float64][height][0]>
+                <[string8][name][H6]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

@@ -1,0 +1,39 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) QUEENSCLIFF]>
+        <[string8][lname][(H) QUEENSCLIFF, Australia]>
+        <[string8][icao][YQCF]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][144.666591 -38.265501]>
+        <[float64][height][1.2]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][144.666453 -38.265487]>
+        <[float64][tower_height][3.0]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][144.666591 -38.265501]>
+                <[string8][type_name][building]>
+                <[float64][radius][9.0]>
+                <[float64][heading][0.00]>
+                <[float64][height][0]>
+                <[string8][name][H12]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][144.666590 -38.265500]>
+                <[float64][heading][0.00]>
+                <[string8][name][New Ramp Start 123]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

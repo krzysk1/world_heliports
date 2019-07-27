@@ -1,0 +1,52 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) FREMANTLE HELIPORT]>
+        <[string8][lname][(H) FREMANTLE HELIPORT, Australia]>
+        <[string8][icao][YFTL]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][115.733456 -32.045792]>
+        <[float64][height][5.2]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][115.733607 -32.045708]>
+        <[float64][tower_height][7.0]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][115.733456 -32.045792]>
+                <[string8][type_name][building]>
+                <[float64][radius][4.0]>
+                <[float64][heading][324.00]>
+                <[float64][height][0]>
+                <[string8][name][H68]>
+            >
+            <[tmsimulator_helipad][element][1]
+                <[tmvector2d][position][115.733083 -32.046025]>
+                <[string8][type_name][building]>
+                <[float64][radius][13.6]>
+                <[float64][heading][323.99]>
+                <[float64][height][0]>
+                <[string8][name][H69]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][115.733083 -32.046024]>
+                <[float64][heading][318.45]>
+                <[string8][name][New Ramp Start 72]>
+            >
+            <[tmsimulator_parking_position][element][1]
+                <[tmvector2d][position][115.733457 -32.045795]>
+                <[float64][heading][315.61]>
+                <[string8][name][New Ramp Start 73]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

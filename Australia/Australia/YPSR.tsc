@@ -1,0 +1,39 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) PERISHER]>
+        <[string8][lname][(H) PERISHER, Australia]>
+        <[string8][icao][YPSR]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][148.413243 -36.403787]>
+        <[float64][height][1723.6]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][148.413021 -36.403877]>
+        <[float64][tower_height][1725.5]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][148.413243 -36.403787]>
+                <[string8][type_name][building]>
+                <[float64][radius][9.0]>
+                <[float64][heading][0.00]>
+                <[float64][height][0]>
+                <[string8][name][H63]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][148.413241 -36.403783]>
+                <[float64][heading][0.00]>
+                <[string8][name][New Ramp Start 64]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

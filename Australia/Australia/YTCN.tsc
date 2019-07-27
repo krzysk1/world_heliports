@@ -1,0 +1,39 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) TCN CHANNEL NINE]>
+        <[string8][lname][(H) TCN CHANNEL NINE, Australia]>
+        <[string8][icao][YTCN]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][151.196400 -33.811336]>
+        <[float64][height][79.2]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][151.196273 -33.811303]>
+        <[float64][tower_height][81.1]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][151.196400 -33.811336]>
+                <[string8][type_name][building]>
+                <[float64][radius][13.6]>
+                <[float64][heading][278.07]>
+                <[float64][height][0]>
+                <[string8][name][H29]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][151.196401 -33.811339]>
+                <[float64][heading][279.83]>
+                <[string8][name][New Ramp Start 30]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

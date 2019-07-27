@@ -1,0 +1,58 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) St Mandrier Navy]>
+        <[string8][lname][(H) St Mandrier Navy, France]>
+        <[string8][icao][LFTR]>
+        <[string8][country][fr]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][5.937151 43.083862]>
+        <[float64][height][0.6]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][5.932319 43.082084]>
+        <[float64][tower_height][17.1]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][5.937151 43.083862]>
+                <[string8][type_name][building]>
+                <[float64][radius][17.1]>
+                <[float64][heading][338.00]>
+                <[float64][height][0]>
+                <[string8][name][H10]>
+            >
+            <[tmsimulator_helipad][element][1]
+                <[tmvector2d][position][5.936194 43.083578]>
+                <[string8][type_name][building]>
+                <[float64][radius][17.1]>
+                <[float64][heading][338.00]>
+                <[float64][height][0]>
+                <[string8][name][H11]>
+            >
+            <[tmsimulator_helipad][element][2]
+                <[tmvector2d][position][5.935197 43.083281]>
+                <[string8][type_name][building]>
+                <[float64][radius][17.1]>
+                <[float64][heading][338.00]>
+                <[float64][height][0]>
+                <[string8][name][H12]>
+            >
+            <[tmsimulator_helipad][element][3]
+                <[tmvector2d][position][5.934176 43.082976]>
+                <[string8][type_name][building]>
+                <[float64][radius][17.1]>
+                <[float64][heading][338.00]>
+                <[float64][height][0]>
+                <[string8][name][H13]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

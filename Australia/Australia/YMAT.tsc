@@ -1,0 +1,39 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) MATER HOSPITAL (BRISBANE)]>
+        <[string8][lname][(H) MATER HOSPITAL (BRISBANE), Australia]>
+        <[string8][icao][YMAT]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][153.026696 -27.484361]>
+        <[float64][height][25.0]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][153.026710 -27.484506]>
+        <[float64][tower_height][26.8]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][153.026696 -27.484361]>
+                <[string8][type_name][building]>
+                <[float64][radius][14.9]>
+                <[float64][heading][45.00]>
+                <[float64][height][0]>
+                <[string8][name][H7]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][153.026693 -27.484364]>
+                <[float64][heading][0.00]>
+                <[string8][name][New Ramp Start 8]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

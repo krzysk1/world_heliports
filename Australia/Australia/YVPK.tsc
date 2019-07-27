@@ -1,0 +1,39 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) VICTORIA PARK]>
+        <[string8][lname][(H) VICTORIA PARK, Australia]>
+        <[string8][icao][YVPK]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][144.997026 -37.797926]>
+        <[float64][height][25.9]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][144.996194 -37.797860]>
+        <[float64][tower_height][27.7]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][144.997026 -37.797926]>
+                <[string8][type_name][building]>
+                <[float64][radius][9.0]>
+                <[float64][heading][0.00]>
+                <[float64][height][0]>
+                <[string8][name][H25]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][144.997017 -37.797918]>
+                <[float64][heading][0.00]>
+                <[string8][name][New Ramp Start 26]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

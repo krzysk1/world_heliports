@@ -1,0 +1,32 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) 1st District Police Stn]>
+        <[string8][lname][(H) 1st District Police Stn, Iran]>
+        <[string8][icao][OI50]>
+        <[string8][country][ir]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-81.779023 41.448106]>
+        <[float64][height][238.7]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][-81.779023 41.448106]>
+                <[string8][type_name][building]>
+                <[float64][radius][6.1]>
+                <[float64][heading][0.00]>
+                <[float64][height][0]>
+                <[string8][name][H1]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

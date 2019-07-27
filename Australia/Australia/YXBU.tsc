@@ -1,0 +1,39 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) BULWER MORTON ISLAND]>
+        <[string8][lname][(H) BULWER MORTON ISLAND, Australia]>
+        <[string8][icao][YXBU]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][153.367458 -27.072341]>
+        <[float64][height][7.9]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][153.367496 -27.072050]>
+        <[float64][tower_height][9.8]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][153.367458 -27.072341]>
+                <[string8][type_name][building]>
+                <[float64][radius][5.0]>
+                <[float64][heading][317.02]>
+                <[float64][height][0]>
+                <[string8][name][H4]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][153.367456 -27.072342]>
+                <[float64][heading][131.19]>
+                <[string8][name][New Ramp Start 5]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

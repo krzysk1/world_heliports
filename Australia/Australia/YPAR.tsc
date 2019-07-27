@@ -1,0 +1,39 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) PORT ARTHUR]>
+        <[string8][lname][(H) PORT ARTHUR, Australia]>
+        <[string8][icao][YPAR]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][147.850561 -43.158622]>
+        <[float64][height][2.4]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][147.850294 -43.158574]>
+        <[float64][tower_height][4.3]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][147.850561 -43.158622]>
+                <[string8][type_name][building]>
+                <[float64][radius][7.5]>
+                <[float64][heading][31.10]>
+                <[float64][height][0]>
+                <[string8][name][H12]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][147.850566 -43.158622]>
+                <[float64][heading][34.27]>
+                <[string8][name][New Ramp Start 13]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

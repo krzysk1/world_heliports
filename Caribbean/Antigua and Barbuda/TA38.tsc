@@ -1,0 +1,32 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(H) Hendrick Medical Center]>
+        <[string8][lname][(H) Hendrick Medical Center, Antigua and Barbuda]>
+        <[string8][icao][TA38]>
+        <[string8][country][ag]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-99.733977 32.471513]>
+        <[float64][height][519.4]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+            <[tmsimulator_helipad][element][0]
+                <[tmvector2d][position][-99.733977 32.471513]>
+                <[string8][type_name][building]>
+                <[float64][radius][18.3]>
+                <[float64][heading][0.00]>
+                <[float64][height][0]>
+                <[string8][name][H1]>
+            >
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>
