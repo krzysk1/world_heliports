@@ -1,65 +1,67 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) HELITECH HELIPAD BRISBANE RIVER]>
-        <[string8][lname][(H) HELITECH HELIPAD BRISBANE RIVER, Australia]>
-        <[string8][icao][YTEK]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][153.114767 -27.433156]>
-        <[float64][height][1.5]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][153.114854 -27.433006]>
-        <[float64][tower_height][3.4]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][153.114767 -27.433156]>
-                <[string8][type_name][building]>
-                <[float64][radius][3.1]>
-                <[float64][heading][127.76]>
-                <[float64][height][0]>
-                <[string8][name][H1]>
-            >
-            <[tmsimulator_helipad][element][1]
-                <[tmvector2d][position][153.114992 -27.432887]>
-                <[string8][type_name][building]>
-                <[float64][radius][3.1]>
-                <[float64][heading][127.76]>
-                <[float64][height][0]>
-                <[string8][name][H2]>
-            >
-            <[tmsimulator_helipad][element][2]
-                <[tmvector2d][position][153.115066 -27.433144]>
-                <[string8][type_name][building]>
-                <[float64][radius][3.1]>
-                <[float64][heading][307.43]>
-                <[float64][height][0]>
-                <[string8][name][H3]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][153.114767 -27.433156]>
-                <[float64][heading][124.88]>
-                <[string8][name][H1 Start]>
-            >
-            <[tmsimulator_parking_position][element][1]
-                <[tmvector2d][position][153.114991 -27.432887]>
-                <[float64][heading][125.31]>
-                <[string8][name][H2 Start]>
-            >
-            <[tmsimulator_parking_position][element][2]
-                <[tmvector2d][position][153.115065 -27.433146]>
-                <[float64][heading][306.03]>
-                <[string8][name][H3 Start]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) HELITECH HELIPAD BRISBANE RIVER]>
+		<[string8][lname][(H) HELITECH HELIPAD BRISBANE RIVER, Australia]>
+		<[string8][icao][YTEK]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][153.114767 -27.433156]>
+		<[float64][height][1.5]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][153.114854 -27.433006]>
+		<[float64][tower_height][3.4]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][153.114767 -27.433156]>
+				<[string8][type_name][building]>
+				<[float64][radius][3.1]>
+				<[float64][heading][127.76]>
+				<[float64][height][0]>
+				<[string8][name][H1]>
+			>
+			<[tmsimulator_helipad][element][1]
+				<[tmvector2d][position][153.114992 -27.432887]>
+				<[string8][type_name][building]>
+				<[float64][radius][3.1]>
+				<[float64][heading][127.76]>
+				<[float64][height][0]>
+				<[string8][name][H2]>
+			>
+			<[tmsimulator_helipad][element][2]
+				<[tmvector2d][position][153.115066 -27.433144]>
+				<[string8][type_name][building]>
+				<[float64][radius][3.1]>
+				<[float64][heading][307.43]>
+				<[float64][height][0]>
+				<[string8][name][H3]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][153.114767 -27.433156]>
+				<[float64][heading][124.88]>
+				<[string8][name][H1 Start]>
+			>
+			<[tmsimulator_parking_position][element][1]
+				<[tmvector2d][position][153.114991 -27.432887]>
+				<[float64][heading][125.31]>
+				<[string8][name][H2 Start]>
+			>
+			<[tmsimulator_parking_position][element][2]
+				<[tmvector2d][position][153.115065 -27.433146]>
+				<[float64][heading][306.03]>
+				<[string8][name][H3 Start]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YTEK_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

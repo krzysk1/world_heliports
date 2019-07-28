@@ -1,0 +1,36 @@
+<[file][][EGEA_bcn]
+	<[cultivation][][]
+		<[string8][coordinate_system][lonlat]>
+		<[list_light][light_list][]
+			<[light][element][0]
+				<[vector3_float64][position][-2.323668 57.119731 12.924800]>
+				<[vector3_float32][color][0.000000 1.000000 0.000000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.219613 3.361723 43.922545 0]>
+				<[uint32][group_index][0]>
+			>
+			<[light][element][1]
+				<[vector3_float64][position][-2.323668 57.119731 12.924800]>
+				<[vector3_float32][color][1.000000 1.000000 0.000000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.219613 1.680861 43.922545 0]>
+				<[uint32][group_index][0]>
+			>
+			<[light][element][2]
+				<[vector3_float64][position][-2.323668 57.119731 12.924800]>
+				<[vector3_float32][color][0.700000 0.700000 0.700000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.219613 0.000000 43.922545 0]>
+				<[uint32][group_index][0]>
+			>
+		>
+		<[list_xref][xref_list][]
+			<[xref][element][0]
+				<[string8][name][tower00_tiny_concret_ds_10_08_08]>
+				<[string8][name][tower00_tiny_bricks_ds_11_08_08]>
+				<[vector3_float64][position][-2.322402 57.119565 0]>
+				<[float32][direction][0]>
+			>
+		>
+	>
+>

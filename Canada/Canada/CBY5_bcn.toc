@@ -1,0 +1,35 @@
+<[file][][CBY5_bcn]
+	<[cultivation][][]
+		<[string8][coordinate_system][lonlat]>
+		<[list_light][light_list][]
+			<[light][element][0]
+				<[vector3_float64][position][-130.282550 54.332114 35.480000]>
+				<[vector3_float32][color][0.000000 1.000000 0.000000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.163239 3.524640 32.647896 0]>
+				<[uint32][group_index][0]>
+			>
+			<[light][element][1]
+				<[vector3_float64][position][-130.282550 54.332114 35.480000]>
+				<[vector3_float32][color][1.000000 1.000000 0.000000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.163239 1.762320 32.647896 0]>
+				<[uint32][group_index][0]>
+			>
+			<[light][element][2]
+				<[vector3_float64][position][-130.282550 54.332114 35.480000]>
+				<[vector3_float32][color][0.700000 0.700000 0.700000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.163239 0.000000 32.647896 0]>
+				<[uint32][group_index][0]>
+			>
+		>
+		<[list_xref][xref_list][]
+			<[xref][element][0]
+				<[string8][name][tower00_big_blue_ds_08_08_08]>
+				<[vector3_float64][position][-130.282467 54.332347 0]>
+				<[float32][direction][0]>
+			>
+		>
+	>
+>

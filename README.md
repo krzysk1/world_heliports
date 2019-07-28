@@ -2,6 +2,8 @@
  World generic heliports for Aerofly FS2 (scenery)
  
 	6004 heliports created
+	938 beacon lights created
+	232 control towers created	
  
  To instal just unzip all or selected airport files/countries into '\Documents\Aerofly FS 2\scenery\places\' folder.
  

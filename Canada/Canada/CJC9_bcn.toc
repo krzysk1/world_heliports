@@ -1,0 +1,7 @@
+<[file][][CJC9_bcn]
+	<[cultivation][][]
+		<[string8][coordinate_system][lonlat]>
+		<[list_light][light_list][]
+		>
+	>
+>

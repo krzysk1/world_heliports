@@ -1,39 +1,41 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) Machar-Strong Ambulance]>
-        <[string8][lname][(H) Machar-Strong Ambulance, CH]>
-        <[string8][icao][CH02]>
-        <[string8][country][us]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-79.372772 45.832581]>
-        <[float64][height][350.8]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][-79.372681 45.832493]>
-        <[float64][tower_height][355.4]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][-79.372772 45.832581]>
-                <[string8][type_name][building]>
-                <[float64][radius][9.0]>
-                <[float64][heading][348.30]>
-                <[float64][height][0]>
-                <[string8][name][H1]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-79.372773 45.832581]>
-                <[float64][heading][78.30]>
-                <[string8][name][Pad]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) Machar-Strong Ambulance]>
+		<[string8][lname][(H) Machar-Strong Ambulance, CH]>
+		<[string8][icao][CH02]>
+		<[string8][country][us]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-79.372772 45.832581]>
+		<[float64][height][350.8]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][-79.372681 45.832493]>
+		<[float64][tower_height][355.4]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][-79.372772 45.832581]>
+				<[string8][type_name][building]>
+				<[float64][radius][9.0]>
+				<[float64][heading][348.30]>
+				<[float64][height][0]>
+				<[string8][name][H1]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-79.372773 45.832581]>
+				<[float64][heading][78.30]>
+				<[string8][name][Pad]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][CH02_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

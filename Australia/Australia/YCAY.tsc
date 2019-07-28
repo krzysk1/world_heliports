@@ -1,39 +1,41 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) Casey Station]>
-        <[string8][lname][(H) Casey Station, Australia]>
-        <[string8][icao][YCAY]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][110.532790 -66.282451]>
-        <[float64][height][3.4]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][110.532260 -66.282452]>
-        <[float64][tower_height][5.2]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][110.532790 -66.282451]>
-                <[string8][type_name][building]>
-                <[float64][radius][3.1]>
-                <[float64][heading][91.56]>
-                <[float64][height][0]>
-                <[string8][name][H21]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][110.532790 -66.282451]>
-                <[float64][heading][90.00]>
-                <[string8][name][New Ramp Start 22]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) Casey Station]>
+		<[string8][lname][(H) Casey Station, Australia]>
+		<[string8][icao][YCAY]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][110.532790 -66.282451]>
+		<[float64][height][3.4]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][110.532260 -66.282452]>
+		<[float64][tower_height][5.2]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][110.532790 -66.282451]>
+				<[string8][type_name][building]>
+				<[float64][radius][3.1]>
+				<[float64][heading][91.56]>
+				<[float64][height][0]>
+				<[string8][name][H21]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][110.532790 -66.282451]>
+				<[float64][heading][90.00]>
+				<[string8][name][New Ramp Start 22]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YCAY_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

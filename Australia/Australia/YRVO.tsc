@@ -1,39 +1,41 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) RAVENSHOE]>
-        <[string8][lname][(H) RAVENSHOE, Australia]>
-        <[string8][icao][YRVO]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][145.482487 -17.607900]>
-        <[float64][height][909.2]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][145.482754 -17.607941]>
-        <[float64][tower_height][911.0]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][145.482487 -17.607900]>
-                <[string8][type_name][building]>
-                <[float64][radius][9.0]>
-                <[float64][heading][0.00]>
-                <[float64][height][0]>
-                <[string8][name][H40]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][145.482488 -17.607899]>
-                <[float64][heading][0.00]>
-                <[string8][name][New Ramp Start 41]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) RAVENSHOE]>
+		<[string8][lname][(H) RAVENSHOE, Australia]>
+		<[string8][icao][YRVO]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][145.482487 -17.607900]>
+		<[float64][height][909.2]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][145.482754 -17.607941]>
+		<[float64][tower_height][911.0]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][145.482487 -17.607900]>
+				<[string8][type_name][building]>
+				<[float64][radius][9.0]>
+				<[float64][heading][0.00]>
+				<[float64][height][0]>
+				<[string8][name][H40]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][145.482488 -17.607899]>
+				<[float64][heading][0.00]>
+				<[string8][name][New Ramp Start 41]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YRVO_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

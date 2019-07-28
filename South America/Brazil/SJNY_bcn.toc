@@ -1,0 +1,28 @@
+<[file][][SJNY_bcn]
+	<[cultivation][][]
+		<[string8][coordinate_system][lonlat]>
+		<[list_light][light_list][]
+			<[light][element][0]
+				<[vector3_float64][position][-37.990012 -12.549775 35.000000]>
+				<[vector3_float32][color][0.000000 1.000000 0.000000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.266436 3.237431 53.287286 0]>
+				<[uint32][group_index][0]>
+			>
+			<[light][element][1]
+				<[vector3_float64][position][-37.990012 -12.549775 35.000000]>
+				<[vector3_float32][color][1.000000 1.000000 0.000000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.266436 1.618715 53.287286 0]>
+				<[uint32][group_index][0]>
+			>
+			<[light][element][2]
+				<[vector3_float64][position][-37.990012 -12.549775 35.000000]>
+				<[vector3_float32][color][0.700000 0.700000 0.700000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.266436 0.000000 53.287286 0]>
+				<[uint32][group_index][0]>
+			>
+		>
+	>
+>

@@ -1,90 +1,92 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) Monaco Fontvieille]>
-        <[string8][lname][(H) Monaco Fontvieille, Monaco]>
-        <[string8][icao][LNMC]>
-        <[string8][country][mc]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][7.419336 43.725522]>
-        <[float64][height][5.5]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][7.419385 43.725765]>
-        <[float64][tower_height][21.9]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][7.419336 43.725522]>
-                <[string8][type_name][building]>
-                <[float64][radius][5.9]>
-                <[float64][heading][315.00]>
-                <[float64][height][0]>
-                <[string8][name][H1]>
-            >
-            <[tmsimulator_helipad][element][1]
-                <[tmvector2d][position][7.419519 43.725663]>
-                <[string8][type_name][building]>
-                <[float64][radius][5.9]>
-                <[float64][heading][315.00]>
-                <[float64][height][0]>
-                <[string8][name][H2]>
-            >
-            <[tmsimulator_helipad][element][2]
-                <[tmvector2d][position][7.419714 43.725797]>
-                <[string8][type_name][building]>
-                <[float64][radius][5.9]>
-                <[float64][heading][315.00]>
-                <[float64][height][0]>
-                <[string8][name][H3]>
-            >
-            <[tmsimulator_helipad][element][3]
-                <[tmvector2d][position][7.419910 43.725944]>
-                <[string8][type_name][building]>
-                <[float64][radius][5.9]>
-                <[float64][heading][315.00]>
-                <[float64][height][0]>
-                <[string8][name][H4]>
-            >
-            <[tmsimulator_helipad][element][4]
-                <[tmvector2d][position][7.420119 43.726096]>
-                <[string8][type_name][building]>
-                <[float64][radius][5.9]>
-                <[float64][heading][315.00]>
-                <[float64][height][0]>
-                <[string8][name][H5]>
-            >
-            <[tmsimulator_helipad][element][5]
-                <[tmvector2d][position][7.420323 43.726237]>
-                <[string8][type_name][building]>
-                <[float64][radius][5.9]>
-                <[float64][heading][315.00]>
-                <[float64][height][0]>
-                <[string8][name][H6]>
-            >
-            <[tmsimulator_helipad][element][6]
-                <[tmvector2d][position][7.419375 43.725287]>
-                <[string8][type_name][building]>
-                <[float64][radius][7.0]>
-                <[float64][heading][315.00]>
-                <[float64][height][0]>
-                <[string8][name][H7]>
-            >
-            <[tmsimulator_helipad][element][7]
-                <[tmvector2d][position][7.420624 43.726197]>
-                <[string8][type_name][building]>
-                <[float64][radius][7.0]>
-                <[float64][heading][315.00]>
-                <[float64][height][0]>
-                <[string8][name][H8]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) Monaco Fontvieille]>
+		<[string8][lname][(H) Monaco Fontvieille, Monaco]>
+		<[string8][icao][LNMC]>
+		<[string8][country][mc]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][7.419336 43.725522]>
+		<[float64][height][5.5]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][7.419385 43.725765]>
+		<[float64][tower_height][21.9]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][7.419336 43.725522]>
+				<[string8][type_name][building]>
+				<[float64][radius][5.9]>
+				<[float64][heading][315.00]>
+				<[float64][height][0]>
+				<[string8][name][H1]>
+			>
+			<[tmsimulator_helipad][element][1]
+				<[tmvector2d][position][7.419519 43.725663]>
+				<[string8][type_name][building]>
+				<[float64][radius][5.9]>
+				<[float64][heading][315.00]>
+				<[float64][height][0]>
+				<[string8][name][H2]>
+			>
+			<[tmsimulator_helipad][element][2]
+				<[tmvector2d][position][7.419714 43.725797]>
+				<[string8][type_name][building]>
+				<[float64][radius][5.9]>
+				<[float64][heading][315.00]>
+				<[float64][height][0]>
+				<[string8][name][H3]>
+			>
+			<[tmsimulator_helipad][element][3]
+				<[tmvector2d][position][7.419910 43.725944]>
+				<[string8][type_name][building]>
+				<[float64][radius][5.9]>
+				<[float64][heading][315.00]>
+				<[float64][height][0]>
+				<[string8][name][H4]>
+			>
+			<[tmsimulator_helipad][element][4]
+				<[tmvector2d][position][7.420119 43.726096]>
+				<[string8][type_name][building]>
+				<[float64][radius][5.9]>
+				<[float64][heading][315.00]>
+				<[float64][height][0]>
+				<[string8][name][H5]>
+			>
+			<[tmsimulator_helipad][element][5]
+				<[tmvector2d][position][7.420323 43.726237]>
+				<[string8][type_name][building]>
+				<[float64][radius][5.9]>
+				<[float64][heading][315.00]>
+				<[float64][height][0]>
+				<[string8][name][H6]>
+			>
+			<[tmsimulator_helipad][element][6]
+				<[tmvector2d][position][7.419375 43.725287]>
+				<[string8][type_name][building]>
+				<[float64][radius][7.0]>
+				<[float64][heading][315.00]>
+				<[float64][height][0]>
+				<[string8][name][H7]>
+			>
+			<[tmsimulator_helipad][element][7]
+				<[tmvector2d][position][7.420624 43.726197]>
+				<[string8][type_name][building]>
+				<[float64][radius][7.0]>
+				<[float64][heading][315.00]>
+				<[float64][height][0]>
+				<[string8][name][H8]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][LNMC_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

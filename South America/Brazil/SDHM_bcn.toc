@@ -1,0 +1,28 @@
+<[file][][SDHM_bcn]
+	<[cultivation][][]
+		<[string8][coordinate_system][lonlat]>
+		<[list_light][light_list][]
+			<[light][element][0]
+				<[vector3_float64][position][-46.745517 -23.594683 35.000000]>
+				<[vector3_float32][color][0.000000 1.000000 0.000000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.158703 3.538439 31.740584 0]>
+				<[uint32][group_index][0]>
+			>
+			<[light][element][1]
+				<[vector3_float64][position][-46.745517 -23.594683 35.000000]>
+				<[vector3_float32][color][1.000000 1.000000 0.000000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.158703 1.769220 31.740584 0]>
+				<[uint32][group_index][0]>
+			>
+			<[light][element][2]
+				<[vector3_float64][position][-46.745517 -23.594683 35.000000]>
+				<[vector3_float32][color][0.700000 0.700000 0.700000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.158703 0.000000 31.740584 0]>
+				<[uint32][group_index][0]>
+			>
+		>
+	>
+>

@@ -1,39 +1,41 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) PIER 35 HELIPORT]>
-        <[string8][lname][(H) PIER 35 HELIPORT, Australia]>
-        <[string8][icao][YIER]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][144.908230 -37.823158]>
-        <[float64][height][1.5]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][144.908476 -37.822762]>
-        <[float64][tower_height][19.8]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][144.908230 -37.823158]>
-                <[string8][type_name][building]>
-                <[float64][radius][25.0]>
-                <[float64][heading][151.80]>
-                <[float64][height][0]>
-                <[string8][name][H1]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][144.908213 -37.823152]>
-                <[float64][heading][151.80]>
-                <[string8][name][New Ramp Start 2]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) PIER 35 HELIPORT]>
+		<[string8][lname][(H) PIER 35 HELIPORT, Australia]>
+		<[string8][icao][YIER]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][144.908230 -37.823158]>
+		<[float64][height][1.5]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][144.908476 -37.822762]>
+		<[float64][tower_height][19.8]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][144.908230 -37.823158]>
+				<[string8][type_name][building]>
+				<[float64][radius][25.0]>
+				<[float64][heading][151.80]>
+				<[float64][height][0]>
+				<[string8][name][H1]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][144.908213 -37.823152]>
+				<[float64][heading][151.80]>
+				<[string8][name][New Ramp Start 2]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YIER_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

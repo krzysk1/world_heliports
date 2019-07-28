@@ -1,0 +1,28 @@
+<[file][][0MD3_bcn]
+	<[cultivation][][]
+		<[string8][coordinate_system][lonlat]>
+		<[list_light][light_list][]
+			<[light][element][0]
+				<[vector3_float64][position][-76.594416 39.297329 35.000000]>
+				<[vector3_float32][color][0.000000 1.000000 0.000000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.245599 3.291590 49.119761 0]>
+				<[uint32][group_index][0]>
+			>
+			<[light][element][1]
+				<[vector3_float64][position][-76.594416 39.297329 35.000000]>
+				<[vector3_float32][color][1.000000 1.000000 0.000000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.245599 1.645795 49.119761 0]>
+				<[uint32][group_index][0]>
+			>
+			<[light][element][2]
+				<[vector3_float64][position][-76.594416 39.297329 35.000000]>
+				<[vector3_float32][color][0.700000 0.700000 0.700000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.245599 0.000000 49.119761 0]>
+				<[uint32][group_index][0]>
+			>
+		>
+	>
+>

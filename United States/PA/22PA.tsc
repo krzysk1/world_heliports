@@ -1,32 +1,28 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) Uniontown Hospital]>
-        <[string8][lname][(H) Uniontown Hospital, PA]>
-        <[string8][icao][22PA]>
-        <[string8][country][us]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-79.744766 39.900909]>
-        <[float64][height][339.9]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][-79.744766 39.900909]>
-                <[string8][type_name][building]>
-                <[float64][radius][9.9]>
-                <[float64][heading][0.00]>
-                <[float64][height][0]>
-                <[string8][name][H1]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) Uniontown Hospital]>
+		<[string8][lname][(H) Uniontown Hospital, PA]>
+		<[string8][icao][22PA]>
+		<[string8][country][us]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-79.744766 39.900909]>
+		<[float64][height][339.9]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][-79.744766 39.900909]>
+				<[string8][type_name][building]>
+				<[float64][radius][9.9]>
+				<[float64][heading][0.00]>
+				<[float64][height][0]>
+				<[string8][name][H1]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

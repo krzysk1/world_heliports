@@ -1,32 +1,28 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) Burovaya 363/1]>
-        <[string8][lname][(H) Burovaya 363/1, Russia]>
-        <[string8][icao][UI19]>
-        <[string8][country][ru]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][110.066667 59.983333]>
-        <[float64][height][370.9]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][110.066667 59.983333]>
-                <[string8][type_name][building]>
-                <[float64][radius][10.1]>
-                <[float64][heading][149.00]>
-                <[float64][height][0]>
-                <[string8][name][H1]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) Burovaya 363/1]>
+		<[string8][lname][(H) Burovaya 363/1, Russia]>
+		<[string8][icao][UI19]>
+		<[string8][country][ru]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][110.066667 59.983333]>
+		<[float64][height][370.9]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][110.066667 59.983333]>
+				<[string8][type_name][building]>
+				<[float64][radius][10.1]>
+				<[float64][heading][149.00]>
+				<[float64][height][0]>
+				<[string8][name][H1]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

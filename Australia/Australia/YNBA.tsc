@@ -1,39 +1,41 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) NUBEENA]>
-        <[string8][lname][(H) NUBEENA, Australia]>
-        <[string8][icao][YNBA]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][147.744900 -43.099367]>
-        <[float64][height][24.1]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][147.744433 -43.098764]>
-        <[float64][tower_height][25.9]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][147.744900 -43.099367]>
-                <[string8][type_name][building]>
-                <[float64][radius][7.5]>
-                <[float64][heading][0.00]>
-                <[float64][height][0]>
-                <[string8][name][H4]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][147.744896 -43.099376]>
-                <[float64][heading][0.00]>
-                <[string8][name][New Ramp Start 5]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) NUBEENA]>
+		<[string8][lname][(H) NUBEENA, Australia]>
+		<[string8][icao][YNBA]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][147.744900 -43.099367]>
+		<[float64][height][24.1]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][147.744433 -43.098764]>
+		<[float64][tower_height][25.9]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][147.744900 -43.099367]>
+				<[string8][type_name][building]>
+				<[float64][radius][7.5]>
+				<[float64][heading][0.00]>
+				<[float64][height][0]>
+				<[string8][name][H4]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][147.744896 -43.099376]>
+				<[float64][heading][0.00]>
+				<[string8][name][New Ramp Start 5]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YNBA_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

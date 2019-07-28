@@ -1,32 +1,28 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) Medina Memorial Hospital]>
-        <[string8][lname][(H) Medina Memorial Hospital, NY]>
-        <[string8][icao][NY90]>
-        <[string8][country][us]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-78.398080 43.223056]>
-        <[float64][height][164.6]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][-78.398080 43.223056]>
-                <[string8][type_name][building]>
-                <[float64][radius][91.4]>
-                <[float64][heading][0.00]>
-                <[float64][height][0]>
-                <[string8][name][H1]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) Medina Memorial Hospital]>
+		<[string8][lname][(H) Medina Memorial Hospital, NY]>
+		<[string8][icao][NY90]>
+		<[string8][country][us]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-78.398080 43.223056]>
+		<[float64][height][164.6]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][-78.398080 43.223056]>
+				<[string8][type_name][building]>
+				<[float64][radius][91.4]>
+				<[float64][heading][0.00]>
+				<[float64][height][0]>
+				<[string8][name][H1]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

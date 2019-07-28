@@ -1,32 +1,28 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) Baton Rouge General Hospital]>
-        <[string8][lname][(H) Baton Rouge General Hospital, LA]>
-        <[string8][icao][27LA]>
-        <[string8][country][us]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-91.153162 30.448802]>
-        <[float64][height][28.3]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][-91.153162 30.448802]>
-                <[string8][type_name][building]>
-                <[float64][radius][6.1]>
-                <[float64][heading][0.00]>
-                <[float64][height][0]>
-                <[string8][name][H1]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) Baton Rouge General Hospital]>
+		<[string8][lname][(H) Baton Rouge General Hospital, LA]>
+		<[string8][icao][27LA]>
+		<[string8][country][us]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-91.153162 30.448802]>
+		<[float64][height][28.3]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][-91.153162 30.448802]>
+				<[string8][type_name][building]>
+				<[float64][radius][6.1]>
+				<[float64][heading][0.00]>
+				<[float64][height][0]>
+				<[string8][name][H1]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

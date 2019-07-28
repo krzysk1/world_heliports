@@ -1,47 +1,49 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) CAREFLIGHT CENTRAL WEST NSW BASE]>
-        <[string8][lname][(H) CAREFLIGHT CENTRAL WEST NSW BASE, Australia]>
-        <[string8][icao][YXCF]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][149.121001 -33.303652]>
-        <[float64][height][903.4]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][149.120931 -33.303493]>
-        <[float64][tower_height][905.3]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][149.121001 -33.303652]>
-                <[string8][type_name][building]>
-                <[float64][radius][5.0]>
-                <[float64][heading][172.88]>
-                <[float64][height][0]>
-                <[string8][name][H1]>
-            >
-            <[tmsimulator_helipad][element][1]
-                <[tmvector2d][position][149.120823 -33.303671]>
-                <[string8][type_name][building]>
-                <[float64][radius][5.0]>
-                <[float64][heading][172.88]>
-                <[float64][height][0]>
-                <[string8][name][H2]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][149.120823 -33.303671]>
-                <[float64][heading][171.38]>
-                <[string8][name][New Ramp Start 9]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) CAREFLIGHT CENTRAL WEST NSW BASE]>
+		<[string8][lname][(H) CAREFLIGHT CENTRAL WEST NSW BASE, Australia]>
+		<[string8][icao][YXCF]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][149.121001 -33.303652]>
+		<[float64][height][903.4]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][149.120931 -33.303493]>
+		<[float64][tower_height][905.3]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][149.121001 -33.303652]>
+				<[string8][type_name][building]>
+				<[float64][radius][5.0]>
+				<[float64][heading][172.88]>
+				<[float64][height][0]>
+				<[string8][name][H1]>
+			>
+			<[tmsimulator_helipad][element][1]
+				<[tmvector2d][position][149.120823 -33.303671]>
+				<[string8][type_name][building]>
+				<[float64][radius][5.0]>
+				<[float64][heading][172.88]>
+				<[float64][height][0]>
+				<[string8][name][H2]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][149.120823 -33.303671]>
+				<[float64][heading][171.38]>
+				<[string8][name][New Ramp Start 9]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YXCF_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

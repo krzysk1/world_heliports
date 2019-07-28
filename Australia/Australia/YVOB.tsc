@@ -1,39 +1,41 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) VIVONNE BAY]>
-        <[string8][lname][(H) VIVONNE BAY, Australia]>
-        <[string8][icao][YVOB]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][137.182470 -35.982374]>
-        <[float64][height][8.8]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][137.182372 -35.982371]>
-        <[float64][tower_height][10.7]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][137.182470 -35.982374]>
-                <[string8][type_name][building]>
-                <[float64][radius][9.0]>
-                <[float64][heading][0.00]>
-                <[float64][height][0]>
-                <[string8][name][H22]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][137.182468 -35.982372]>
-                <[float64][heading][94.34]>
-                <[string8][name][New Ramp Start 23]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) VIVONNE BAY]>
+		<[string8][lname][(H) VIVONNE BAY, Australia]>
+		<[string8][icao][YVOB]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][137.182470 -35.982374]>
+		<[float64][height][8.8]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][137.182372 -35.982371]>
+		<[float64][tower_height][10.7]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][137.182470 -35.982374]>
+				<[string8][type_name][building]>
+				<[float64][radius][9.0]>
+				<[float64][heading][0.00]>
+				<[float64][height][0]>
+				<[string8][name][H22]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][137.182468 -35.982372]>
+				<[float64][heading][94.34]>
+				<[string8][name][New Ramp Start 23]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YVOB_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

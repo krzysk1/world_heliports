@@ -1,37 +1,39 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) Johnson]>
-        <[string8][lname][(H) Johnson, WY]>
-        <[string8][icao][WY08]>
-        <[string8][country][us]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-110.735288 43.604492]>
-        <[float64][height][1966.3]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][-110.735288 43.604492]>
-                <[string8][type_name][building]>
-                <[float64][radius][5.9]>
-                <[float64][heading][20.59]>
-                <[float64][height][0]>
-                <[string8][name][H1]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-110.735288 43.604490]>
-                <[float64][heading][19.98]>
-                <[string8][name][New Ramp Start 2]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) Johnson]>
+		<[string8][lname][(H) Johnson, WY]>
+		<[string8][icao][WY08]>
+		<[string8][country][us]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-110.735288 43.604492]>
+		<[float64][height][1966.3]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][-110.735288 43.604492]>
+				<[string8][type_name][building]>
+				<[float64][radius][5.9]>
+				<[float64][heading][20.59]>
+				<[float64][height][0]>
+				<[string8][name][H1]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-110.735288 43.604490]>
+				<[float64][heading][19.98]>
+				<[string8][name][New Ramp Start 2]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][WY08_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

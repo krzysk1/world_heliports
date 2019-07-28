@@ -1,47 +1,43 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) Kyahta 050]>
-        <[string8][lname][(H) Kyahta 050, Russia]>
-        <[string8][icao][XIIK]>
-        <[string8][country][ru]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][106.474393 50.344462]>
-        <[float64][height][739.7]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][106.474393 50.344462]>
-                <[string8][type_name][building]>
-                <[float64][radius][10.1]>
-                <[float64][heading][2.00]>
-                <[float64][height][0]>
-                <[string8][name][H1]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][106.473703 50.345153]>
-                <[float64][heading][92.00]>
-                <[string8][name][Stand 1]>
-            >
-            <[tmsimulator_parking_position][element][1]
-                <[tmvector2d][position][106.473697 50.344472]>
-                <[float64][heading][92.00]>
-                <[string8][name][Stand 2]>
-            >
-            <[tmsimulator_parking_position][element][2]
-                <[tmvector2d][position][106.475047 50.343681]>
-                <[float64][heading][2.00]>
-                <[string8][name][Stand 3]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) Kyahta 050]>
+		<[string8][lname][(H) Kyahta 050, Russia]>
+		<[string8][icao][XIIK]>
+		<[string8][country][ru]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][106.474393 50.344462]>
+		<[float64][height][739.7]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][106.474393 50.344462]>
+				<[string8][type_name][building]>
+				<[float64][radius][10.1]>
+				<[float64][heading][2.00]>
+				<[float64][height][0]>
+				<[string8][name][H1]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][106.473703 50.345153]>
+				<[float64][heading][92.00]>
+				<[string8][name][Stand 1]>
+			>
+			<[tmsimulator_parking_position][element][1]
+				<[tmvector2d][position][106.473697 50.344472]>
+				<[float64][heading][92.00]>
+				<[string8][name][Stand 2]>
+			>
+			<[tmsimulator_parking_position][element][2]
+				<[tmvector2d][position][106.475047 50.343681]>
+				<[float64][heading][2.00]>
+				<[string8][name][Stand 3]>
+			>
+		>
+	>
 >

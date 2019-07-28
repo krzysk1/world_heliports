@@ -1,32 +1,28 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) Zima]>
-        <[string8][lname][(H) Zima, Russia]>
-        <[string8][icao][UI50]>
-        <[string8][country][ru]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][102.046944 53.893333]>
-        <[float64][height][449.9]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][102.046944 53.893333]>
-                <[string8][type_name][building]>
-                <[float64][radius][5.0]>
-                <[float64][heading][334.00]>
-                <[float64][height][0]>
-                <[string8][name][H1]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) Zima]>
+		<[string8][lname][(H) Zima, Russia]>
+		<[string8][icao][UI50]>
+		<[string8][country][ru]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][102.046944 53.893333]>
+		<[float64][height][449.9]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][102.046944 53.893333]>
+				<[string8][type_name][building]>
+				<[float64][radius][5.0]>
+				<[float64][heading][334.00]>
+				<[float64][height][0]>
+				<[string8][name][H1]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

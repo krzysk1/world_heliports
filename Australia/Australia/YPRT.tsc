@@ -1,91 +1,93 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) PARRAMATTA]>
-        <[string8][lname][(H) PARRAMATTA, Australia]>
-        <[string8][icao][YPRT]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][151.024342 -33.830210]>
-        <[float64][height][7.9]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][151.024810 -33.830035]>
-        <[float64][tower_height][9.8]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][151.024342 -33.830210]>
-                <[string8][type_name][building]>
-                <[float64][radius][3.1]>
-                <[float64][heading][296.31]>
-                <[float64][height][0]>
-                <[string8][name][H1]>
-            >
-            <[tmsimulator_helipad][element][1]
-                <[tmvector2d][position][151.024423 -33.830053]>
-                <[string8][type_name][building]>
-                <[float64][radius][2.4]>
-                <[float64][heading][258.53]>
-                <[float64][height][0]>
-                <[string8][name][H2]>
-            >
-            <[tmsimulator_helipad][element][2]
-                <[tmvector2d][position][151.024586 -33.829919]>
-                <[string8][type_name][building]>
-                <[float64][radius][2.4]>
-                <[float64][heading][351.05]>
-                <[float64][height][0]>
-                <[string8][name][H3]>
-            >
-            <[tmsimulator_helipad][element][3]
-                <[tmvector2d][position][151.024792 -33.829882]>
-                <[string8][type_name][building]>
-                <[float64][radius][2.0]>
-                <[float64][heading][345.18]>
-                <[float64][height][0]>
-                <[string8][name][H4]>
-            >
-            <[tmsimulator_helipad][element][4]
-                <[tmvector2d][position][151.024129 -33.830109]>
-                <[string8][type_name][building]>
-                <[float64][radius][9.0]>
-                <[float64][heading][206.94]>
-                <[float64][height][0]>
-                <[string8][name][H5]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][151.024344 -33.830211]>
-                <[float64][heading][287.98]>
-                <[string8][name][Pad 1]>
-            >
-            <[tmsimulator_parking_position][element][1]
-                <[tmvector2d][position][151.024425 -33.830051]>
-                <[float64][heading][256.76]>
-                <[string8][name][Pad 2]>
-            >
-            <[tmsimulator_parking_position][element][2]
-                <[tmvector2d][position][151.024587 -33.829921]>
-                <[float64][heading][343.06]>
-                <[string8][name][Pad 3]>
-            >
-            <[tmsimulator_parking_position][element][3]
-                <[tmvector2d][position][151.024793 -33.829882]>
-                <[float64][heading][343.92]>
-                <[string8][name][Pad 4]>
-            >
-            <[tmsimulator_parking_position][element][4]
-                <[tmvector2d][position][151.024123 -33.830116]>
-                <[float64][heading][202.30]>
-                <[string8][name][Pad 5]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) PARRAMATTA]>
+		<[string8][lname][(H) PARRAMATTA, Australia]>
+		<[string8][icao][YPRT]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][151.024342 -33.830210]>
+		<[float64][height][7.9]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][151.024810 -33.830035]>
+		<[float64][tower_height][9.8]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][151.024342 -33.830210]>
+				<[string8][type_name][building]>
+				<[float64][radius][3.1]>
+				<[float64][heading][296.31]>
+				<[float64][height][0]>
+				<[string8][name][H1]>
+			>
+			<[tmsimulator_helipad][element][1]
+				<[tmvector2d][position][151.024423 -33.830053]>
+				<[string8][type_name][building]>
+				<[float64][radius][2.4]>
+				<[float64][heading][258.53]>
+				<[float64][height][0]>
+				<[string8][name][H2]>
+			>
+			<[tmsimulator_helipad][element][2]
+				<[tmvector2d][position][151.024586 -33.829919]>
+				<[string8][type_name][building]>
+				<[float64][radius][2.4]>
+				<[float64][heading][351.05]>
+				<[float64][height][0]>
+				<[string8][name][H3]>
+			>
+			<[tmsimulator_helipad][element][3]
+				<[tmvector2d][position][151.024792 -33.829882]>
+				<[string8][type_name][building]>
+				<[float64][radius][2.0]>
+				<[float64][heading][345.18]>
+				<[float64][height][0]>
+				<[string8][name][H4]>
+			>
+			<[tmsimulator_helipad][element][4]
+				<[tmvector2d][position][151.024129 -33.830109]>
+				<[string8][type_name][building]>
+				<[float64][radius][9.0]>
+				<[float64][heading][206.94]>
+				<[float64][height][0]>
+				<[string8][name][H5]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][151.024344 -33.830211]>
+				<[float64][heading][287.98]>
+				<[string8][name][Pad 1]>
+			>
+			<[tmsimulator_parking_position][element][1]
+				<[tmvector2d][position][151.024425 -33.830051]>
+				<[float64][heading][256.76]>
+				<[string8][name][Pad 2]>
+			>
+			<[tmsimulator_parking_position][element][2]
+				<[tmvector2d][position][151.024587 -33.829921]>
+				<[float64][heading][343.06]>
+				<[string8][name][Pad 3]>
+			>
+			<[tmsimulator_parking_position][element][3]
+				<[tmvector2d][position][151.024793 -33.829882]>
+				<[float64][heading][343.92]>
+				<[string8][name][Pad 4]>
+			>
+			<[tmsimulator_parking_position][element][4]
+				<[tmvector2d][position][151.024123 -33.830116]>
+				<[float64][heading][202.30]>
+				<[string8][name][Pad 5]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YPRT_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

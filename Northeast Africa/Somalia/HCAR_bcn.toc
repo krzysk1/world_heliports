@@ -1,0 +1,35 @@
+<[file][][HCAR_bcn]
+	<[cultivation][][]
+		<[string8][coordinate_system][lonlat]>
+		<[list_light][light_list][]
+			<[light][element][0]
+				<[vector3_float64][position][2.339030 43.189569 21.459200]>
+				<[vector3_float32][color][0.000000 1.000000 0.000000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.223769 3.350305 44.753855 0]>
+				<[uint32][group_index][0]>
+			>
+			<[light][element][1]
+				<[vector3_float64][position][2.339030 43.189569 21.459200]>
+				<[vector3_float32][color][1.000000 1.000000 0.000000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.223769 1.675152 44.753855 0]>
+				<[uint32][group_index][0]>
+			>
+			<[light][element][2]
+				<[vector3_float64][position][2.339030 43.189569 21.459200]>
+				<[vector3_float32][color][0.700000 0.700000 0.700000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.223769 0.000000 44.753855 0]>
+				<[uint32][group_index][0]>
+			>
+		>
+		<[list_xref][xref_list][]
+			<[xref][element][0]
+				<[string8][name][tower00_small_plates_ds_03_08_08]>
+				<[vector3_float64][position][2.339082 43.189410 0]>
+				<[float32][direction][0]>
+			>
+		>
+	>
+>

@@ -1,0 +1,35 @@
+<[file][][EDQG_bcn]
+	<[cultivation][][]
+		<[string8][coordinate_system][lonlat]>
+		<[list_light][light_list][]
+			<[light][element][0]
+				<[vector3_float64][position][9.966981 49.649071 23.288000]>
+				<[vector3_float32][color][0.000000 1.000000 0.000000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.141598 3.591455 28.319699 0]>
+				<[uint32][group_index][0]>
+			>
+			<[light][element][1]
+				<[vector3_float64][position][9.966981 49.649071 23.288000]>
+				<[vector3_float32][color][1.000000 1.000000 0.000000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.141598 1.795728 28.319699 0]>
+				<[uint32][group_index][0]>
+			>
+			<[light][element][2]
+				<[vector3_float64][position][9.966981 49.649071 23.288000]>
+				<[vector3_float32][color][0.700000 0.700000 0.700000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.141598 0.000000 28.319699 0]>
+				<[uint32][group_index][0]>
+			>
+		>
+		<[list_xref][xref_list][]
+			<[xref][element][0]
+				<[string8][name][tower00_small_plates_ds_00_08_08]>
+				<[vector3_float64][position][9.971921 49.648777 0]>
+				<[float32][direction][0]>
+			>
+		>
+	>
+>

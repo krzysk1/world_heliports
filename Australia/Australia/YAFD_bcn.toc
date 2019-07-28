@@ -1,0 +1,36 @@
+<[file][][YAFD_bcn]
+	<[cultivation][][]
+		<[string8][coordinate_system][lonlat]>
+		<[list_light][light_list][]
+			<[light][element][0]
+				<[vector3_float64][position][144.979866 -37.845070 6.828800]>
+				<[vector3_float32][color][0.000000 1.000000 0.000000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.294264 3.167823 58.852824 0]>
+				<[uint32][group_index][0]>
+			>
+			<[light][element][1]
+				<[vector3_float64][position][144.979866 -37.845070 6.828800]>
+				<[vector3_float32][color][1.000000 1.000000 0.000000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.294264 1.583912 58.852824 0]>
+				<[uint32][group_index][0]>
+			>
+			<[light][element][2]
+				<[vector3_float64][position][144.979866 -37.845070 6.828800]>
+				<[vector3_float32][color][0.700000 0.700000 0.700000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.294264 0.000000 58.852824 0]>
+				<[uint32][group_index][0]>
+			>
+		>
+		<[list_xref][xref_list][]
+			<[xref][element][0]
+				<[string8][name][tower00_tiny_concret_ds_10_08_08]>
+				<[string8][name][tower00_tiny_bricks_ds_11_08_08]>
+				<[vector3_float64][position][144.981107 -37.845367 0]>
+				<[float32][direction][0]>
+			>
+		>
+	>
+>

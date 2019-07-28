@@ -1,39 +1,41 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) Bergan Mercy Hospital]>
-        <[string8][lname][(H) Bergan Mercy Hospital, NE]>
-        <[string8][icao][55NE]>
-        <[string8][country][us]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-96.029461 41.240554]>
-        <[float64][height][347.5]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][-96.029354 41.240514]>
-        <[float64][tower_height][349.3]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][-96.029461 41.240554]>
-                <[string8][type_name][building]>
-                <[float64][radius][7.0]>
-                <[float64][heading][0.00]>
-                <[float64][height][0]>
-                <[string8][name][H1]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-96.029462 41.240554]>
-                <[float64][heading][0.58]>
-                <[string8][name][New Ramp Start 14]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) Bergan Mercy Hospital]>
+		<[string8][lname][(H) Bergan Mercy Hospital, NE]>
+		<[string8][icao][55NE]>
+		<[string8][country][us]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-96.029461 41.240554]>
+		<[float64][height][347.5]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][-96.029354 41.240514]>
+		<[float64][tower_height][349.3]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][-96.029461 41.240554]>
+				<[string8][type_name][building]>
+				<[float64][radius][7.0]>
+				<[float64][heading][0.00]>
+				<[float64][height][0]>
+				<[string8][name][H1]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-96.029462 41.240554]>
+				<[float64][heading][0.58]>
+				<[string8][name][New Ramp Start 14]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][55NE_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

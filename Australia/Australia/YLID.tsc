@@ -1,39 +1,41 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(H) LIDDELL]>
-        <[string8][lname][(H) LIDDELL, Australia]>
-        <[string8][icao][YLID]>
-        <[string8][country][au]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][151.033713 -32.418068]>
-        <[float64][height][113.4]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][151.033600 -32.418135]>
-        <[float64][tower_height][115.2]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-        >
-        <[list_tmsimulator_helipad][helipads][]
-            <[tmsimulator_helipad][element][0]
-                <[tmvector2d][position][151.033713 -32.418068]>
-                <[string8][type_name][building]>
-                <[float64][radius][14.9]>
-                <[float64][heading][0.00]>
-                <[float64][height][0]>
-                <[string8][name][H16]>
-            >
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][151.033704 -32.418071]>
-                <[float64][heading][0.00]>
-                <[string8][name][New Ramp Start 17]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(H) LIDDELL]>
+		<[string8][lname][(H) LIDDELL, Australia]>
+		<[string8][icao][YLID]>
+		<[string8][country][au]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][151.033713 -32.418068]>
+		<[float64][height][113.4]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][151.033600 -32.418135]>
+		<[float64][tower_height][115.2]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+		>
+		<[list_tmsimulator_helipad][helipads][]
+			<[tmsimulator_helipad][element][0]
+				<[tmvector2d][position][151.033713 -32.418068]>
+				<[string8][type_name][building]>
+				<[float64][radius][14.9]>
+				<[float64][heading][0.00]>
+				<[float64][height][0]>
+				<[string8][name][H16]>
+			>
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][151.033704 -32.418071]>
+				<[float64][heading][0.00]>
+				<[string8][name][New Ramp Start 17]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][YLID_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >
